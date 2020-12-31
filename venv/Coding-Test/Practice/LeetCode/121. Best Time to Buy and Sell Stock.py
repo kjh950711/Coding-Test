@@ -19,4 +19,3 @@ def maxProfit(prices):
 
 stock = [7, 1, 5, 3, 6, 4]
 print(maxProfit(stock))
-# 러ㅏ이너라인머아ㅣㄴ;머라
