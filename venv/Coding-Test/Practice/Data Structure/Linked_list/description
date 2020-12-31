@@ -1,0 +1,17 @@
+'''
+# 오늘은 링크드 리스트 한번 공부해볼게요! 링크드 리스트는 종류가 3가지가 있어요.
+> single linked list, double linked list, circular linked list.
+'''
+'''
+# 3가지 링크드 리스트를 직접 구현
+> 파이썬에서는 클래스를 활용해서 만들어야 할건데, 인터넷에 파이썬 링크드 리스트라고 검색하면 소스코드 많이 있을거에요.
+> linked list를 구성하기 위한 Node를 class로 만들고
+> list에 추가해보고 지워보고 list 전체를 출력하는 함수 이런 정도만 만들어
+'''
+'''
+# 리트코드라는 사이트
+> 알고리즘 문제 푸는 사이트
+> linked list를 공부했으면, linked list 기반 문제 2개 풀어볼게요!
+> https://leetcode.com/problems/merge-two-sorted-lists/
+> https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+'''
